@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/travellhyne/weather-app/issues"
   },
-  "homepage": "https://github.com/travellhyne/weather-app#readme"
+  "homepage": "https://github.com/travellhyne/weather-app#readme",
+  "dependencies": {
+    "immutability-helper": "^2.0.0",
+    "normalize.css": "^4.2.0",
+    "react": "^15.3.2",
+    "react-addons-css-transition-group": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.8.1",
+    "react-toolbox": "^2.0.0-beta.0"
+  }
 }
