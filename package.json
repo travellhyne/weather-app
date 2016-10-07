@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "React based weather app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travellhyne/weather-app.git"
+  },
+  "keywords": [
+    "weather",
+    "react"
+  ],
+  "author": "Neil John Ramal <ramalneiljohn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/travellhyne/weather-app/issues"
+  },
+  "homepage": "https://github.com/travellhyne/weather-app#readme"
+}
